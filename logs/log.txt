@@ -1,0 +1,13 @@
+[03/03/2021, 23:27:02] [INFO] Cleared log file contents
+[11/03/2021, 16:29:44] [Error] Please enter a number, not a string.
+[11/03/2021, 16:29:45] [Error] Please enter a number, not a string.
+[11/03/2021, 16:29:46] [Error] Please enter a number, not a string.
+[11/03/2021, 16:29:48] [Error] Number is greater than 18.
+[11/03/2021, 16:29:51] [Error] Number is greater than 18.
+[11/03/2021, 16:29:54] [Error] Number is greater than 18.
+[11/03/2021, 16:30:23] [Error] Please enter a number, not a string.
+[11/03/2021, 16:30:27] [Error] Please enter a number, not a string.
+[11/03/2021, 16:31:10] [Error] Please enter a number, not a string.
+[11/03/2021, 16:31:11] [Error] Number is greater than 18.
+[11/03/2021, 16:33:01] [Error] Please enter a number, not a string.
+[11/03/2021, 16:33:11] [Error] Please enter a number, not a string.
